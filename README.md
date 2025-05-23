@@ -11,19 +11,19 @@ Objectives:
 2.	Registration Lapse Savings: Identify vehicles with lapsed registrations and vehicle safety features eligible for discounts.
 3.	Plan Customization Based on Client Data: Utilize data on past accident frequency and income brackets to customize plans:
 
-  a.	High Frequency, High Income (>$100k): Opt for higher liability limits and higher premiums.
+      a.	High Frequency, High Income (>$100k): Opt for higher liability limits and higher premiums.
   
-  b.	High Frequency, Medium Income ($60k-$100k): Recommend lower deductibles with medium premiums.
+      b.	High Frequency, Medium Income ($60k-$100k): Recommend lower deductibles with medium premiums.
   
-  c.	Low Frequency: Suggest low deductibles and low premiums.
+      c.	Low Frequency: Suggest low deductibles and low premiums.
   
 5.	Plan Adjustments Over Time: Monitor for car registration lapses, under-coverage, and over-coverage to adjust plans appropriately:
   
-  a.	Car Registration Status: If inactive, refer to objective #2 to identify potential discount and call client to discuss registration
+      a.	Car Registration Status: If inactive, refer to objective #2 to identify potential discount and call client to discuss registration
   
-  b.	Under-coverage: If accident damages exceed the plan’s liability limit, discuss the need for higher liability.
+      b.	Under-coverage: If accident damages exceed the plan’s liability limit, discuss the need for higher liability.
   
-  c.	Overcoverage: If damages fall below the deductible, consider recommending a lower deductible at the cost of a higher premium.
+      c.	Overcoverage: If damages fall below the deductible, consider recommending a lower deductible at the cost of a higher premium.
   
-  d.	Payment Issues: Engage with clients who miss multiple premium payments to discuss potential premium reductions.
+      d.	Payment Issues: Engage with clients who miss multiple premium payments to discuss potential premium reductions.
 
