@@ -12,7 +12,7 @@ The database and SQL queries were designed to dynamically tailor car insurance l
 1.)	Save clients money through discounts and
 2.)	Increase feelings of security.
 
-Objectives:
+### Objectives:
 1.	Safe Driving Discount Plan Enrollment: Leverage low accident frequency data to alert agents to propose enrollment, enhancing customer savings.
 2.	Registration Lapse Savings: Identify vehicles with lapsed registrations and vehicle safety features eligible for discounts.
 3.	Plan Customization Based on Client Data: Utilize data on past accident frequency and income brackets to customize plans:
