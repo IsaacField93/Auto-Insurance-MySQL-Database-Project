@@ -1,6 +1,6 @@
 # Auto-Insurance-MySQL-Database-Project
 
-##_Disclaimer_
+### Disclaimer
 
 _This project was done as as part of University of Connecticut class with external sponsors from an insurance company._
 
