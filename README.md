@@ -1,6 +1,12 @@
 # Auto-Insurance-MySQL-Database-Project
 
-This report outlines the culmination of our project aimed at enhancing customer retention for an insurance company through an advanced database application. The project's core objective was to utilize database-driven insights to optimize liability car insurance, thereby improving customer retention.
+##_Disclaimer_
+
+This project was done as as part of University of Connecticut class with external sponsors from an insurance company.
+
+_As such, I no longer have access to the DBeaver server that housed the SQL database my team and I built.
+Thus, the information displayed here consists of pictures of entity-relationship diagram (ERD) and our SQL queries that were part of our final class project
+This report outlines the culmination of our project aimed at enhancing customer retention for an insurance company through an advanced database application. The project's core objective was to utilize database-driven insights to optimize liability car insurance, thereby improving customer retention._
 
 The database and SQL queries were designed to dynamically tailor car insurance liability plans to client needs as they change over time in order to:
 1.)	Save clients money through discounts and
