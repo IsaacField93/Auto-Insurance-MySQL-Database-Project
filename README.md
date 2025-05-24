@@ -2,7 +2,7 @@
 
 ##_Disclaimer_
 
-This project was done as as part of University of Connecticut class with external sponsors from an insurance company.
+_This project was done as as part of University of Connecticut class with external sponsors from an insurance company._
 
 _As such, I no longer have access to the DBeaver server that housed the SQL database my team and I built.
 Thus, the information displayed here consists of pictures of entity-relationship diagram (ERD) and our SQL queries that were part of our final class project
